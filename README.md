@@ -10,7 +10,7 @@ CineStream is a web application for streaming movies. Users can browse a collect
 - **Trailer in Background**: Movie trailers play in the background for an immersive browsing experience.
 - **Movie Suggestions**: Users receive personalized movie suggestions based on their preferences.
 - **Movie Lists**: Users can create and manage custom lists of movies.
-- **NetflixGPT Integration**: Utilizes NetflixGPT for enhanced movie recommendations.
+- **GPT Integration**: Utilizes GPT for enhanced movie recommendations.
 - **Search Bar**: Users can search for specific movies.
 - **Responsive Design**: Designed with responsiveness in mind for optimal viewing on various devices.
 
