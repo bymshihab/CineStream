@@ -1,4 +1,4 @@
-# CineStream
+# CineStream - Personalized GPT Movie Search & Streaming Web App
 
 CineStream is a web application for streaming movies. Users can browse a collection of movies, view trailers, get personalized movie suggestions, create and share movie lists, and more.
 
@@ -61,6 +61,4 @@ CineStream is a web application for streaming movies. Users can browse a collect
 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or features you'd like to add.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
